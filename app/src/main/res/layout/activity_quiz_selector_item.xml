@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/accent"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp">
+
+        <ImageView
+            android:id="@+id/quiz_image"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@color/accent" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/quiz_selector_item_name"
+        android:textColor="@color/primary_text"
+        android:background="@color/accent"
+        android:fontFamily="sans-serif"
+        android:textSize="20dp"
+        android:gravity="center"/>
+</LinearLayout>
