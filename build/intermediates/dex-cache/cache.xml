@@ -3,120 +3,399 @@
 
     <item
         is-multidex="true"
-        jar="/Users/max/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.2.0/fd3a444cc7987b5fa2a60fabb116395ca2a4da1c/disklrucache-4.2.0.jar"
+        jar="/Users/jaypillai/.android/build-cache/11010da9739d04fec544ad1b67b338bf7c4618f8/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="fd3a444cc7987b5fa2a60fabb116395ca2a4da1c">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.2.0_37de3d16126edc29f2648a1b997735fd662be3b3/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ee3db5e8671aa2ab72d2e545034fdb28f59c721/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/max/.android/build-cache/0a7f854f392e47242a9cdb3e775ae33dc53d3849/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bba240d4da2ff75b49293244694a0758fbfc94f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/max/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.2.0/f196283dab426e09559bfe7385f162b2b254cf72/gifdecoder-4.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="f196283dab426e09559bfe7385f162b2b254cf72">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.2.0_d105635b76470a35273f9e50052f3e47896353d9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/max/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.2.0/b76d4269b06b8bda96aac32342a05843b4c0be41/glide-4.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b76d4269b06b8bda96aac32342a05843b4c0be41">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.2.0_7882754097447fbbb5d593578319a700f7b54691/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/max/.android/build-cache/716b63738ae3c5b8dbcdf28bec4aabf72f7b3cea/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e48022e4031a12967d95fb7f2224d9374b17ea8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/max/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.2.0/1d6fc29f2af61d8fdc31018416040c560423c4b3/annotations-4.2.0.jar"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.2.0/1d6fc29f2af61d8fdc31018416040c560423c4b3/annotations-4.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="1d6fc29f2af61d8fdc31018416040c560423c4b3">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.2.0_eb01f646a0d8a9f4f2f85b978302a458ddc14a8b/classes.dex" />
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.2.0_9d8b53a4717404971a24ae87eba583d147559031/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.2.0/b76d4269b06b8bda96aac32342a05843b4c0be41/glide-4.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e01e867fa93c6d073cfa958ef22704e41cc84c55/classes.dex" />
+        sha1="b76d4269b06b8bda96aac32342a05843b4c0be41">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.2.0_3660862ba11bc5ad023c9a63c0d09e6dd083d66d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/jaypillai/.android/build-cache/dc222d74acb66d15a9ae90ac08ef6ad32702d338/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="f516453922c2589f04e6a0f7a5b4af1ab3b44ed7">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23fbf9fd4668e11c293b3ee4c1bc5aa40113cf20/classes.dex" />
+        sha1="5753660caa486676aacf05857930d76589a09af9">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bc1b115955b45de245774c9f297ea89480758ce/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/max/.android/build-cache/c82321a84cf16af81a9ce4e781792f9776851477/output/jars/classes.jar"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="d1fa63f06110477c59f154f96b7660c6bad9cf04">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68a7049b93676b82eb482f897f0966cc7f22b964/classes.dex" />
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_0108507a6aa9621e7db163204639723ec0f079ac/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/max/.android/build-cache/6c11d33eac1a1c2621e0d34d8944dcc3fe3c6f06/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="97fb40924e83775c91374180494801cb022aa008">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7ad6c522994b4d33e6abf2cd6434b1d26b7f3af/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/max/.android/build-cache/bd6342667b23c6138eca0b546fc8290770adf9a1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="3e1185bdde08224bf1275f6b4f9771df5e738e1b">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d53f062f12963c0d3e24b2426c1e7f136c5e044a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/max/.android/build-cache/c8ddb6b0997a7b799696e706cd7cad554ccd0618/output/jars/classes.jar"
+        jar="/Users/jaypillai/.android/build-cache/99d54783676f06f527e376a9f3e4ceee2e6f6743/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="b614956bf77eb8201754ac10109e52c36691cb3f">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ba62f8f176bfa833a90435206de06e0ca9f580c/classes.dex" />
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc43ed84723a3c97ad4d40f3e4969eca221d524b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/max/.android/build-cache/df6ffd7f5477addad1ff7f118ff3e6bae4788d57/output/jars/classes.jar"
+        jar="/Users/jaypillai/.android/build-cache/42bc39333edb2938c66887b7b00613d7ea006ecc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13e53d3022c574fbd02d5c2a511508edf2815cca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/079c380c906e40e13f523a197c968993279e1d77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4efed89c18cda5bbc2309efe84bb4b67e1ef239">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a5092cb60d1669ea0c51b555f1f756d5acc9716/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/f9c8f51820745a83f9c99b0c0dda159415b63a10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="782d63e5456a49596ef322036691e25c60de3b83">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b6d7183965189898aa68a62599ee24e13d19dc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3687e323ff4d332e9f4e7c4ce347285108af0e9">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82e0862665cd8b00a37fd3149ee6aa660809db29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_dac52853087236125fc29af6a018b03fcbb6373e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/66a9c7609761cb88acb1d093d6c3722d276e10e6/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
         sha1="ba98864d70e8e27b3109c76c5418d41962eb952d">
-        <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5bbc3848f33af476d1d234d8a08b02a4bafd4b8/classes.dex" />
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ca9ac8f3835912bc62c949ee2b2482b51d5bac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/6e5c3314c727757733aac3bf0e6b69ac9a1294de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfb563449c2eab634fce0d19258b9f31f471f210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/76b54a8115a0d62e524ef02cc973e5c673912117/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71bd3c422ee4dcca0430a7f916754c1e9bd6e8d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.2.0/fd3a444cc7987b5fa2a60fabb116395ca2a4da1c/disklrucache-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd3a444cc7987b5fa2a60fabb116395ca2a4da1c">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.2.0_b2cf7d0175b3b5924cd278d357277087d9c66046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/e6a655a0dc56c3ea7f067e5418b4d7951353296b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd6a3b6e3c7c584a47479070fb9292a6c7468657">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f853f1c77bfc5f05cd3fd9e027785ea9fc79807c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/0a536130e894f35aad0d4ec16364f221b76339f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d74bb48ca952f86ca87a962a51b96ef63e7e13d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/1ec91591f5213f85b78c1ea7a80c19e1c1881d97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97fb40924e83775c91374180494801cb022aa008">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_289421e21503175ebe7850ee22fc5c3b9098eaac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/d9b581afafacf0a1670c19503a7adacc152de95c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72b13227b144acf055dcb906b6b02e3aac80030f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/d58b16bf33ede5bce5d9bb3e64b46638c125983c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6193fe03bf8cfab123deb3dde49571ff84d29e78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/be0a86b9cf2b3b455822e860e7c7dbe36f2998e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7203719401f9922d144911d508124aed2a28d1ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/20b1efa08158a587eb241c38041d7e93a94db9da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76a5bf3b461d4d2d374df8d26769a5b5e123a077/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/198b895b62e60f6da2ea416d06d21321a0187012/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b17c18b0f2f8c93a94e5911522da7a442a6e0eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/ebc93aca5b553dc09092cf76da16ab38d584f04a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4ab25e27e43fdfae79d19b56d2836afaed522db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/b42d5741b63d7a5d0ff742d115cb01142bcd2df5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c26ae82d9d4574c4443b8a7ddf29373e30c7e7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/6c0d472cfeb05c09f7108e8649bf960de8894df4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e1185bdde08224bf1275f6b4f9771df5e738e1b">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2f9ac02f215b680c947a9df928232512a270bd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/26400c3d6d844a2d9761cb3403382c32b0c078be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6afb1d78dfa5f07eb22fa61fe8fe3fc1a76fcfb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/83ea82f6dc20ad96740c28c937eb6e64d97dd351/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58b3f48c1f4cd2d628a1c53092dd1f55160137ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/48bf8dda7b8a99b162fbd784f4085ade23a4a4cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52339832d252da4328c5ffcacbc205268346362a">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d0b28b30068b1f072d42db5b868bcbb5a31ebbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/1e4776ac1dfbff5079de0f2daebf6f32445c0cd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40347bf4ffff019e5867da61ec29a7b402fe0bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.0-beta1/4205dd8c33ada1468ab377afff0be95304ef72a/constraint-layout-solver-1.1.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04205dd8c33ada1468ab377afff0be95304ef72a">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.1.0-beta1_16ba52c7bd653d004f2a2080d6421ece5462ec38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/920adfc55cda20d4927ce4ed431085016c4affbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f7651c4998876b403438b655884f853ba53734b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/fdf6a7e0a6dfed0f30519cdd53699b168879197a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d015f43f01297b9df14a8f3cb95f93389a38866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/e031cc1b87efe7f71fb01dd2dd18616a8ee4f17a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75f473af3687cf81e8f5ceaf46364b0f91682aa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/bbdd5b1bd6261979e11f3c7f8544ee9b519151e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f52a8a6dc231a2df722af5ef26930b8082735cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/e9843926751567f21c2d9c70db373c2bce456ea7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e705d9efb1955c0f77f2cb07415ad046ec518b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.2.0/f196283dab426e09559bfe7385f162b2b254cf72/gifdecoder-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f196283dab426e09559bfe7385f162b2b254cf72">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.2.0_1a3fd3d66c1f70b11d1629c760d4ba001ecf747d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/2116f17c197d88aa01313f6b4f782c5c5a83d406/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1fa63f06110477c59f154f96b7660c6bad9cf04">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4f920bff6dd59b35f2375d861658b849bdf97da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/9f07d159f95909481b426929e5962bf26c1e35ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e99f4a9c50405a841eb60c2c8d62498f8e9ef16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d57f245a3bcbe3b7a953cb34abf2e457e4280bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/6ecf1c431401152f1d2a32c17e377ac5054fdf56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f83f4d05ee767e002285359b9d9eba1e43d111ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_97cafbb59c5cecbfbcc5c7ab30843f00ca5b6922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/9a67357feaf16a5cd5be6764097720f638710048/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23c72177a7ea0a40528c34d3e0c424167d874a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaypillai/.android/build-cache/fb9769b08b030cc0c25d6d3530510db38ad2f563/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/jaypillai/Documents/Programming/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52cd6706343a10f1a4b4008178879dfc1573974e/classes.dex" />
     </item>
 
 </items>

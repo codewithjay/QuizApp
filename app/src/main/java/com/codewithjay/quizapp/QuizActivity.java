@@ -104,18 +104,24 @@ public class QuizActivity extends AppCompatActivity {
                 Log.d(QUIZ_ACTIVITY_TAG, "User answer is " + currentButton.getText() + ". Correct answer is " + answer);
                 if(currentButton.getText().equals(answer)) {
                     // TODO(Jay): Develop better animation for correct and wrong answers.
-                    Toast.makeText(getApplicationContext(), "Great job!!", Toast.LENGTH_SHORT).show();
+                    v.setBackgroundColor(getResources().getColor(R.color.correct_answer));
                     mScore += 1;
                     updateWelcomeMessage(mUserName, mScore);
                 } else {
-                Toast.makeText(getApplicationContext(), "Sorry, so close!!", Toast.LENGTH_SHORT).show();
+                    v.setBackgroundColor(getResources().getColor(R.color.wrong_answer));
                 }
                 ++mQuestionNo;
-                if(mQuestionNo < mQuestionAndAnswerList.size()) {
-                    updateQuestionUI(mQuestionAndAnswerList.get(mQuestionNo), mQuizName);
-                } else {
-                    ProcessQuizComplete();
-                }
+                // Add a delay of 500ms.
+                v.postDelayed(new Runnable() {
+                    @Override
+                    public void run() {
+                        if(mQuestionNo < mQuestionAndAnswerList.size()) {
+                            updateQuestionUI(mQuestionAndAnswerList.get(mQuestionNo), mQuizName);
+                        } else {
+                            ProcessQuizComplete();
+                        }
+                    }
+                }, 500);
             }
         };
 
@@ -183,6 +189,11 @@ public class QuizActivity extends AppCompatActivity {
         mChoice2Button.setText(questionAndAnswer.getChoice2());
         mChoice3Button.setText(questionAndAnswer.getChoice3());
         mChoice4Button.setText(questionAndAnswer.getChoice4());
+        mChoice1Button.setBackgroundColor(getResources().getColor(R.color.accent));
+        mChoice2Button.setBackgroundColor(getResources().getColor(R.color.accent));
+        mChoice3Button.setBackgroundColor(getResources().getColor(R.color.accent));
+        mChoice4Button.setBackgroundColor(getResources().getColor(R.color.accent));
+
         mFirebaseStorageReference.child(questionAndAnswer.getImage()).getDownloadUrl().addOnSuccessListener(new OnSuccessListener<Uri>() {
             @Override
             public void onSuccess(Uri uri) {
