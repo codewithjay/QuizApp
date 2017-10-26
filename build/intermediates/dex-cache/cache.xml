@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.2"
-        sha1="d7473c5abdf4cf6265e01021792955be53e829c3">
+        sha1="f516453922c2589f04e6a0f7a5b4af1ab3b44ed7">
         <dex dex="/Users/max/Documents/Codes/Android/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_23fbf9fd4668e11c293b3ee4c1bc5aa40113cf20/classes.dex" />
     </item>
     <item
