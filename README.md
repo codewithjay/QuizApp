@@ -12,6 +12,9 @@ For the quiz master, QuizMe is a flexible app, where new quizzes can be added in
 # App Screenshots
 <img src="QuizSelectorImage.png" width="200"> <img height="350" hspace="5"/> <img src="QuizImage.png" width="200">
 
+# Languages and Libraries Used
+Android, Java, Firebase, Glide.
+
 # Support
 
 If you've found a bug using this app, or want to provide your feedback, please email codewithjay@gmail.com. Patches are strongly encouraged, and may be submitted by forking this app and submitting a pull request through GitHub.
