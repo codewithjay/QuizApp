@@ -10,7 +10,7 @@ For the user, QuizMe is a fun app, which lets you play new quizzes on the go. Ne
 For the quiz master, QuizMe is a flexible app, where new quizzes can be added in a matter of minutes. Adding new quizzes consists of simply adding new rows to the quiz spreadsheet, and uploading the corresponding images to Firebase storage.
 
 # App Screenshots
-<img src="QuizSelectorImage.png" width="250"><img src="QuizImage.png" width="250">
+<img src="QuizSelectorImage.png" width="200"><img src="QuizImage.png" width="200">
 
 # Support
 
