@@ -33,26 +33,36 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Activity that displays each individual question, receives user answers, and update the user
+ * score.
+ */
 public class QuizActivity extends AppCompatActivity {
     private static final String QUIZ_ACTIVITY_TAG = "QuizAppQuizActivity";
+
+    // Location of the Firebase storage directory, where the quiz and question images are stored.
     private static final String STORAGE_URI_PREFIX = "gs://quizapp-8e847.appspot.com/QuizImages/";
 
+    // List of questions and answers in the current quiz.
     private List<QuestionAndAnswer> mQuestionAndAnswerList;
+
+    // Score of the user in the current quiz.
     private int mScore;
+
+    // Index of the question currently shown to the user.
     private int mQuestionNo = 0;
+
     private String mUserName;
     private String mQuizName;
 
     // UI member variables.
-    TextView mWelcomeText;
-
-    TextView mQuestionText;
-    Button mChoice1Button;
-    Button mChoice2Button;
-    Button mChoice3Button;
-    Button mChoice4Button;
-
-    ImageView mQuestionImageView;
+    private TextView mWelcomeText;
+    private TextView mQuestionText;
+    private Button mChoice1Button;
+    private Button mChoice2Button;
+    private Button mChoice3Button;
+    private Button mChoice4Button;
+    private ImageView mQuestionImageView;
 
     // Firebase member variables.
     private FirebaseDatabase mFirebaseDatabase;
@@ -66,9 +76,10 @@ public class QuizActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
 
+        // Extract quiz name and user name from the intent.
         Intent quizIntent = getIntent();
-        mUserName = QuizSelectorActivity.GetUserNameFromIntent(quizIntent);
         mQuizName = QuizSelectorActivity.GetQuizNameFromIntent(quizIntent);
+        mUserName = QuizSelectorActivity.GetUserNameFromIntent(quizIntent);
 
         mQuestionAndAnswerList = new ArrayList<>();
 
@@ -78,13 +89,11 @@ public class QuizActivity extends AppCompatActivity {
         mFirebaseStorageReference = mFirebaseStorage.getReference().child("QuizImages");
 
         mWelcomeText = (TextView) findViewById(R.id.welcome_text);
-
         mQuestionText = (TextView) findViewById(R.id.question_text);
         mChoice1Button = (Button) findViewById(R.id.choice1_button);
         mChoice2Button = (Button) findViewById(R.id.choice2_button);
         mChoice3Button = (Button) findViewById(R.id.choice3_button);
         mChoice4Button = (Button) findViewById(R.id.choice4_button);
-
         mQuestionImageView = (ImageView) findViewById(R.id.question_image);
 
         View.OnClickListener userInputValidator = new View.OnClickListener() {
@@ -94,6 +103,7 @@ public class QuizActivity extends AppCompatActivity {
                 final String answer = mQuestionAndAnswerList.get(mQuestionNo).getAnswer();
                 Log.d(QUIZ_ACTIVITY_TAG, "User answer is " + currentButton.getText() + ". Correct answer is " + answer);
                 if(currentButton.getText().equals(answer)) {
+                    // TODO(Jay): Develop better animation for correct and wrong answers.
                     Toast.makeText(getApplicationContext(), "Great job!!", Toast.LENGTH_SHORT).show();
                     mScore += 1;
                     updateWelcomeMessage(mUserName, mScore);
@@ -151,24 +161,16 @@ public class QuizActivity extends AppCompatActivity {
                 }
 
                 @Override
-                public void onChildChanged(DataSnapshot dataSnapshot, String s) {
-
-                }
+                public void onChildChanged(DataSnapshot dataSnapshot, String s) {}
 
                 @Override
-                public void onChildRemoved(DataSnapshot dataSnapshot) {
-
-                }
+                public void onChildRemoved(DataSnapshot dataSnapshot) {}
 
                 @Override
-                public void onChildMoved(DataSnapshot dataSnapshot, String s) {
-
-                }
+                public void onChildMoved(DataSnapshot dataSnapshot, String s) {}
 
                 @Override
-                public void onCancelled(DatabaseError databaseError) {
-
-                }
+                public void onCancelled(DatabaseError databaseError) {}
             };
             mFirebaseDatabaseReference.addChildEventListener(mChildEventListener);
         }

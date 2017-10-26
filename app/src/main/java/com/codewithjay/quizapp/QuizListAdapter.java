@@ -21,7 +21,7 @@ import com.google.firebase.storage.StorageReference;
 import java.util.List;
 
 /**
- * Created by max on 10/24/17.
+ * Adapter for displaying quiz name and image in the quiz selector list view.
  */
 
 public class QuizListAdapter extends ArrayAdapter<Quiz> {

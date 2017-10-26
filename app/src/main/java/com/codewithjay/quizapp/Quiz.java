@@ -5,9 +5,14 @@ package com.codewithjay.quizapp;
  */
 
 public class Quiz {
+    // Name of the quiz.
     private String name;
+
+    // Path of the thumbnail image, relative to the QuizApp directory in Firebase storage.
     private String image;
 
+    // No argument constructor is needed for this class, for using it in Firebase StorageReference's
+    // ChildEventListener.
     public Quiz() {
         this.name = "";
         this.image = "";

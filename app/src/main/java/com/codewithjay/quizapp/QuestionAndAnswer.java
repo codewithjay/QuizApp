@@ -1,11 +1,13 @@
 package com.codewithjay.quizapp;
 
 /**
- * POJO class storing the question, choices and the answer.
+ * POJO class storing the question text, question image, choices and the answer.
  */
 
 public class QuestionAndAnswer {
     private String question;
+
+    // Path of the quiz image file relative to QuizApp directory in Firebase storage.
     private String image;
 
     // Choices are represented as four variables instead of an array, since each question should
@@ -15,8 +17,11 @@ public class QuestionAndAnswer {
     private String choice3;
     private String choice4;
 
+    // Correct answer for the question.
     private String answer;
 
+    // No argument constructor is needed for this class, for using it in Firebase StorageReference's
+    // ChildEventListener.
     QuestionAndAnswer() {
         this.question = "";
         this.choice1 = "";
